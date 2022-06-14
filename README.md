@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mushu314
 - 👀 I’m interested in Solidity, Python
-- 🌱 I’m currently learning Solidity, Python
+- 🌱 I’m currently learning Solidity, Python, Clarity
 - 💞️ I’m looking to collaborate on Developing DAOs and smart contracts
 - 📫 How to reach me ...
 
